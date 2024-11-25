@@ -1,6 +1,6 @@
 ---
 name: Election
-about: Elect
+about: Elect new ...
 title: ''
 labels: ''
 assignees: ''

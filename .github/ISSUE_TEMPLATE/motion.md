@@ -1,6 +1,6 @@
 ---
 name: Motion
-about: Proposal for a decision
+about: Decide on...
 title: ''
 labels: ''
 assignees: ''
