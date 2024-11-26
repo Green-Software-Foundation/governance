@@ -11,13 +11,13 @@ assignees: ''
 
 [Describe the purpose of the election]
 
-## The Opportunity
+## The Position
 
 * [Describe the Role]
 * [Outline the Responsibilities]
 * [Outline any Considerations]
 
-## Nomination
+## Nominations
 
 * **Nominations open on [day] [month] [year] and close on [day] [month] [year]**
 * Any registered GSF volunteer can nominate themself or someone else in their organisation.
