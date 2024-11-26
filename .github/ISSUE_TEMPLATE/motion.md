@@ -11,7 +11,7 @@ assignees: ''
 
 [Provide the Motion to which you would like people to respond]
 
-Responses must be received by [day] [month] [year].
+Pending any unresolved objections the motion will be approved on [day] [month] [year].
 
 ## Context
 
@@ -25,8 +25,8 @@ Responses must be received by [day] [month] [year].
 
 Please reply in a comment to this GitHub issue with your response to this Motion:
 
-[ ] Endorsement - X
+[ ] Endorse - X
 [ ] Consent - Y
-[ ] Objection - Z
+[ ] Object - Z
 
 Please provide any reasons for objection.
