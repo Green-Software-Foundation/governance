@@ -25,8 +25,9 @@ Pending any unresolved objections the motion will be approved on [day] [month] [
 
 Please reply in a comment to this GitHub issue with your response to this Motion:
 
-[ ] Endorse - X
-[ ] Consent - Y
-[ ] Object - Z
+- [ ] Endorse - X
+- [ ] Consent - Y
+- [ ] Object - Z
+
 
 Please provide any reasons for objection.
