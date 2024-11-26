@@ -11,6 +11,8 @@ assignees: ''
 
 [Provide the Motion to which you would like people to respond]
 
+Responses must be received by [day] [month] [year].
+
 ## Context
 
 [What context can be provided to ensure that someone who isn’t aware of the issue can quickly understand the situation?]
@@ -21,4 +23,10 @@ assignees: ''
 
 ## Action
 
-Respond to the Motion by Endorsing, Consenting or Objecting
+Please reply in a comment to this GitHub issue with your response to this Motion:
+
+[ ] Endorsement - X
+[ ] Consent - Y
+[ ] Objection - Z
+
+Please provide any reasons for objection.
