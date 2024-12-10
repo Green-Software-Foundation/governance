@@ -1,8 +1,8 @@
 ---
 name: Opportunity
 about: Opportunity to...
-title: '[OPPORTUNITY] XXXX'
-labels: 'Opportunity'
+title: "[OPPORTUNITY] XXXX"
+labels: ''
 assignees: ''
 
 ---

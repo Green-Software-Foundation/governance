@@ -1,8 +1,8 @@
 ---
 name: Election
 about: Elect new ...
-title: "[ELECTION] Approval of X"
-labels: Election
+title: "[ELECTION] Election of X"
+labels: ''
 assignees: ''
 
 ---
