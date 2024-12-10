@@ -2,7 +2,7 @@
 name: Opportunity
 about: Opportunity to...
 title: "[OPPORTUNITY] XXXX"
-labels: ''
+labels: 'Opportunity'
 assignees: ''
 
 ---
@@ -11,6 +11,8 @@ assignees: ''
 
 [Describe the opportunity]
 
-## Apply
+## Application
+
+[Details of the application process]
 
 [Link to apply]
